@@ -45,3 +45,8 @@ cd /srv/app
 ```
 source launch.sh
 ```
+
+## Integrantes del equipo
+Alejandro Quesada Mendo - a.quesada.2016@alumnos.urjc.es - AlexQueso   
+David Correas Oliver - d.correas.2016@alumnos.urjc.es - DavidCorreas  
+Jose Miguel Zamora Batista - jm.zamora.2016@alumnos.urjc.es - JoseZamora97 
